@@ -1,0 +1,15 @@
+{
+  "rules": {
+    "devices": {
+      "$deviceId": {
+        ".read": true,
+        ".write": "auth.uid === $deviceId",
+        "readings": {
+          "$timestamp": {
+            ".validate": "newData.hasChildren(['date', 'time', 'moisture'])"
+          }
+        }
+      }
+    }
+  }
+}

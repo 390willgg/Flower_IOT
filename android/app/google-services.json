@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "522244921049",
+    "firebase_url": "https://kelembaban-tanah-72e35-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kelembaban-tanah-72e35",
+    "storage_bucket": "kelembaban-tanah-72e35.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522244921049:android:9b489a346fc374258c50c8",
+        "android_client_info": {
+          "package_name": "com.example.flower_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9eHu2i9R-47cGkOQ4Rv3O6DoO1ekEW00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522244921049:android:167dbe98b9fa81c68c50c8",
+        "android_client_info": {
+          "package_name": "com.example.skripsi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9eHu2i9R-47cGkOQ4Rv3O6DoO1ekEW00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
